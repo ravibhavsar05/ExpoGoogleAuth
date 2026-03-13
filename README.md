@@ -4,7 +4,6 @@ A minimal [Expo](https://expo.dev) app demonstrating **Google Sign-In** using `e
 
 ## Demo Video
 
-Upload a video to GitHub (edit this file on GitHub and drag & drop the video into the editor). GitHub will insert a `user-attachments` link here and show an inline player automatically.
 
 ## Table of contents
 
